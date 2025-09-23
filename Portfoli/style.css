@@ -1,7 +1,7 @@
 /* Reset básico */
 * {
   box-sizing: border-box;
-  margin: 0;
+  margin: 0;  
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
@@ -14,7 +14,7 @@ body {
 
 /* HEADER */
 header {
-  background: #8b0000; /* rojo oscuro */
+  background: #F72020; /* rojo oscuro */
   color: white;
   display: flex;
   align-items: center;
@@ -91,7 +91,7 @@ section p {
   flex: 1 1 30%;
   background: #fff0f0;
   padding: 1rem;
-  border-radius: 8px;
+  border-radius: 8px; 
   box-shadow: 0 2px 8px rgb(139 0 0 / 0.2);
 }
 
